@@ -21,7 +21,7 @@ obj = Solution()
 print(obj.searchInsert(input_list, 5))
 
 
-# Algorithm 
+# Algorithm with O(log n) runtime complexity
 
 # 1] Initialize left = 0, which will store the required index
 # 2] right = len(nums) - 1, num = size of the array
