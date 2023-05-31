@@ -1,4 +1,7 @@
 # Two numbers Sum
+
+from typing import List
+
 class Solution(object):
    def twoSum(self, nums, target):
       
